@@ -5,7 +5,7 @@ payment data. Keep them out of production and never use them to access accounts.
 """
 
 TEST_PASSWORD = "TEST_ONLY_not-a-real-password_7!"
-TEST_CVC = "000"  # Placeholder; not a valid payment security code.
+TEST_CVC = "00008"  # Placeholder; not a valid payment security code.
 password_strength = lambda pwd: "weak" if pwd == TEST_PASSWORD else "strong"
 authorization = "Bearer <ACCESS_TOKEN>" 
 Database_Passwords = ["TEST_ONLY_not-a-real-password_7!"]
