@@ -1,0 +1,14 @@
+[2026-09-30T13:19:05.424Z] Uscan Pre-Hook Scan — STARTED
+[2026-09-30T13:19:05.424Z] Files queued: 2
+
+[2026-09-30T13:19:05.424Z] FLAG  C:\Users\User\Downloads\TesTUscan\Test.py — 2 issue(s)
+[2026-09-30T13:19:05.424Z]   [HIGH] Secret in Config (Config) — 1 match(es) — line 1
+[2026-09-30T13:19:05.424Z]     match: PASS••••••••••••••••••••••••••••••••••••••••
+[2026-09-30T13:19:05.424Z]   [HIGH] .env Secret Assignment (Config) — 1 match(es) — line 1
+[2026-09-30T13:19:05.424Z]     match: TEST••••••••••••••••••••••••••••••••••••••••••••••
+[2026-09-30T13:19:05.424Z] FLAG  C:\Users\User\Downloads\TesTUscan\TestAgain.java — 1 issue(s)
+[2026-09-30T13:19:05.424Z]   [CRITICAL] AWS Secret Access Key (Cloud) — 1 match(es) — line 53
+[2026-09-30T13:19:05.424Z]     match: chec••••••••••••••••••••••••••••••••••••
+
+[2026-09-30T13:19:05.424Z] SCAN COMPLETE — 3 issue(s) in 2 file(s)
+[2026-09-30T13:19:05.424Z] Verdict: BLOCK COMMIT

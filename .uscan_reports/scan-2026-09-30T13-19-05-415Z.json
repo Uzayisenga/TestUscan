@@ -1,0 +1,66 @@
+{
+  "scanTime": "2026-09-30T13:19:05.417Z",
+  "targetPath": "C:\\Users\\User\\Downloads\\TesTUscan",
+  "summary": {
+    "total": 2,
+    "flagged": 2,
+    "clean": 0,
+    "skipped": 0,
+    "issues": 3
+  },
+  "files": [
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\Test.py",
+      "status": "flagged",
+      "size": 517,
+      "findings": [
+        {
+          "id": "secret_cfg",
+          "label": "Secret in Config",
+          "severity": "HIGH",
+          "category": "Config",
+          "count": 1,
+          "lines": [
+            1
+          ],
+          "matches": [
+            "PASS••••••••••••••••••••••••••••••••••••••••"
+          ]
+        },
+        {
+          "id": "env_secret",
+          "label": ".env Secret Assignment",
+          "severity": "HIGH",
+          "category": "Config",
+          "count": 1,
+          "lines": [
+            1
+          ],
+          "matches": [
+            "TEST••••••••••••••••••••••••••••••••••••••••••••••"
+          ]
+        }
+      ]
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\TestAgain.java",
+      "status": "flagged",
+      "size": 2174,
+      "findings": [
+        {
+          "id": "aws_secret",
+          "label": "AWS Secret Access Key",
+          "severity": "CRITICAL",
+          "category": "Cloud",
+          "count": 1,
+          "lines": [
+            53
+          ],
+          "matches": [
+            "chec••••••••••••••••••••••••••••••••••••"
+          ]
+        }
+      ]
+    }
+  ]
+}
