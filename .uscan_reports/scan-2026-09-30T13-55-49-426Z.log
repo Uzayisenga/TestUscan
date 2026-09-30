@@ -1,0 +1,24 @@
+[2026-09-30T13:55:49.435Z] Uscan Pre-Hook Scan — STARTED
+[2026-09-30T13:55:49.435Z] Files queued: 12
+
+[2026-09-30T13:55:49.435Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\latest-report.html — Binary or unsupported type
+[2026-09-30T13:55:49.435Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-19-05-415Z.html — Binary or unsupported type
+[2026-09-30T13:55:49.435Z] CLEAN C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-19-05-415Z.json
+[2026-09-30T13:55:49.435Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-19-05-415Z.log — Binary or unsupported type
+[2026-09-30T13:55:49.435Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-24-10-644Z.html — Binary or unsupported type
+[2026-09-30T13:55:49.435Z] CLEAN C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-24-10-644Z.json
+[2026-09-30T13:55:49.435Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-24-10-644Z.log — Binary or unsupported type
+[2026-09-30T13:55:49.435Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-25-18-136Z.html — Binary or unsupported type
+[2026-09-30T13:55:49.435Z] CLEAN C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-25-18-136Z.json
+[2026-09-30T13:55:49.435Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-25-18-136Z.log — Binary or unsupported type
+[2026-09-30T13:55:49.435Z] FLAG  C:\Users\User\Downloads\TesTUscan\CreatingDepartureSteps.java — 1 issue(s)
+[2026-09-30T13:55:49.435Z]   [CRITICAL] AWS Secret Access Key (Cloud) — 1 match(es) — line 53
+[2026-09-30T13:55:49.435Z]     match: chec••••••••••••••••••••••••••••••••••••
+[2026-09-30T13:55:49.435Z] FLAG  C:\Users\User\Downloads\TesTUscan\Test.py — 2 issue(s)
+[2026-09-30T13:55:49.435Z]   [HIGH] Secret in Config (Config) — 1 match(es) — line 1
+[2026-09-30T13:55:49.435Z]     match: PASS••••••••••••••••••••••••••••••••••••••••
+[2026-09-30T13:55:49.435Z]   [HIGH] .env Secret Assignment (Config) — 1 match(es) — line 1
+[2026-09-30T13:55:49.435Z]     match: TEST••••••••••••••••••••••••••••••••••••••••••••••
+
+[2026-09-30T13:55:49.435Z] SCAN COMPLETE — 3 issue(s) in 2 file(s)
+[2026-09-30T13:55:49.435Z] Verdict: BLOCK COMMIT
