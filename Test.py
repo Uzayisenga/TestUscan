@@ -1,5 +1,5 @@
 TEST_PASSWORD = "TEST_ONLY_not-a-real-password_7!"  # Placeholder; not a valid password.
-TEST_CVC = "00008"  # Placeholder; not a valid payment security code.
+TEST_CVC = "000098"  # Placeholder; not a valid payment security code.
 password_strength = lambda pwd: "weak" if pwd == TEST_PASSWORD else "strong"
 authorization = "Bearer <ACCESS_TOKEN>" 
 Authorization: Bearer <ACCESS_TOKEN>
