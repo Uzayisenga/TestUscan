@@ -9,3 +9,4 @@ assert TEST_CVC == "000"
 assert password_strength(TEST_PASSWORD) == "weak"
 assert authorization.startswith("Bearer ")
 assert Database_Passwords[0] == TEST_PASSWORD
+AWS_ACCESS_KEY_ID=AKIAIOSFODNN7EXAMPLE

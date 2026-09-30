@@ -1,0 +1,139 @@
+{
+  "scanTime": "2026-09-30T14:47:25.507Z",
+  "targetPath": "C:\\Users\\User\\Downloads\\TesTUscan",
+  "summary": {
+    "total": 21,
+    "flagged": 0,
+    "clean": 8,
+    "skipped": 13,
+    "issues": 0
+  },
+  "files": [
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\latest-report.html",
+      "status": "skipped",
+      "size": 9415,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T13-19-05-415Z.html",
+      "status": "skipped",
+      "size": 7856,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T13-19-05-415Z.json",
+      "status": "clean",
+      "size": 1739,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T13-19-05-415Z.log",
+      "status": "skipped",
+      "size": 1185,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T13-24-10-644Z.html",
+      "status": "skipped",
+      "size": 8434,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T13-24-10-644Z.json",
+      "status": "clean",
+      "size": 2485,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T13-24-10-644Z.log",
+      "status": "skipped",
+      "size": 1742,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T13-25-18-136Z.html",
+      "status": "skipped",
+      "size": 8869,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T13-25-18-136Z.json",
+      "status": "clean",
+      "size": 3046,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T13-25-18-136Z.log",
+      "status": "skipped",
+      "size": 2154,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T13-55-49-426Z.html",
+      "status": "skipped",
+      "size": 9305,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T13-55-49-426Z.json",
+      "status": "clean",
+      "size": 3608,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T13-55-49-426Z.log",
+      "status": "skipped",
+      "size": 2567,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T14-43-01-681Z.html",
+      "status": "skipped",
+      "size": 8979,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T14-43-01-681Z.json",
+      "status": "clean",
+      "size": 2944,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T14-43-01-681Z.log",
+      "status": "skipped",
+      "size": 2174,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T14-45-49-919Z.html",
+      "status": "skipped",
+      "size": 9415,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T14-45-49-919Z.json",
+      "status": "clean",
+      "size": 3506,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T14-45-49-919Z.log",
+      "status": "skipped",
+      "size": 2586,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\CreatingDepartureSteps.java",
+      "status": "clean",
+      "size": 2174,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\Test.py",
+      "status": "clean",
+      "size": 594,
+      "findings": []
+    }
+  ]
+}
