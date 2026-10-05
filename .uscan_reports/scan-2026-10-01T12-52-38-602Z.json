@@ -1,0 +1,229 @@
+{
+  "scanTime": "2026-10-01T12:52:38.604Z",
+  "targetPath": "C:\\Users\\User\\Downloads\\TesTUscan",
+  "summary": {
+    "total": 36,
+    "flagged": 0,
+    "clean": 13,
+    "skipped": 23,
+    "issues": 0
+  },
+  "files": [
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\latest-report.html",
+      "status": "skipped",
+      "size": 11595,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T13-19-05-415Z.html",
+      "status": "skipped",
+      "size": 7856,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T13-19-05-415Z.json",
+      "status": "clean",
+      "size": 1739,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T13-19-05-415Z.log",
+      "status": "skipped",
+      "size": 1185,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T13-24-10-644Z.html",
+      "status": "skipped",
+      "size": 8434,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T13-24-10-644Z.json",
+      "status": "clean",
+      "size": 2485,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T13-24-10-644Z.log",
+      "status": "skipped",
+      "size": 1742,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T13-25-18-136Z.html",
+      "status": "skipped",
+      "size": 8869,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T13-25-18-136Z.json",
+      "status": "clean",
+      "size": 3046,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T13-25-18-136Z.log",
+      "status": "skipped",
+      "size": 2154,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T13-55-49-426Z.html",
+      "status": "skipped",
+      "size": 9305,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T13-55-49-426Z.json",
+      "status": "clean",
+      "size": 3608,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T13-55-49-426Z.log",
+      "status": "skipped",
+      "size": 2567,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T14-43-01-681Z.html",
+      "status": "skipped",
+      "size": 8979,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T14-43-01-681Z.json",
+      "status": "clean",
+      "size": 2944,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T14-43-01-681Z.log",
+      "status": "skipped",
+      "size": 2174,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T14-45-49-919Z.html",
+      "status": "skipped",
+      "size": 9415,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T14-45-49-919Z.json",
+      "status": "clean",
+      "size": 3506,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T14-45-49-919Z.log",
+      "status": "skipped",
+      "size": 2586,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T14-47-25-505Z.html",
+      "status": "skipped",
+      "size": 9850,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T14-47-25-505Z.json",
+      "status": "clean",
+      "size": 4067,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T14-47-25-505Z.log",
+      "status": "skipped",
+      "size": 2998,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T14-55-45-523Z.html",
+      "status": "skipped",
+      "size": 10285,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T14-55-45-523Z.json",
+      "status": "clean",
+      "size": 4628,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T14-55-45-523Z.log",
+      "status": "skipped",
+      "size": 3410,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T15-11-03-241Z.html",
+      "status": "skipped",
+      "size": 10723,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T15-11-03-241Z.json",
+      "status": "clean",
+      "size": 5192,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T15-11-03-241Z.log",
+      "status": "skipped",
+      "size": 3822,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T15-35-36-749Z.html",
+      "status": "skipped",
+      "size": 11159,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T15-35-36-749Z.json",
+      "status": "clean",
+      "size": 5754,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-09-30T15-35-36-749Z.log",
+      "status": "skipped",
+      "size": 4234,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-10-01T12-27-35-044Z.html",
+      "status": "skipped",
+      "size": 11595,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-10-01T12-27-35-044Z.json",
+      "status": "clean",
+      "size": 6316,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\.uscan_reports\\scan-2026-10-01T12-27-35-044Z.log",
+      "status": "skipped",
+      "size": 4646,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\CreatingDepartureSteps.java",
+      "status": "clean",
+      "size": 2174,
+      "findings": []
+    },
+    {
+      "path": "C:\\Users\\User\\Downloads\\TesTUscan\\Test.py",
+      "status": "clean",
+      "size": 662,
+      "findings": []
+    }
+  ]
+}

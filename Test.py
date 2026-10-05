@@ -5,7 +5,7 @@ authorization = "Bearer <ACCESS_TOKEN>"
 authorization = "Bearer <ACCESS_TOKEN>" 
 Database_Passwords = ["TEST_ONLY_not-a-real-password_7!"]
 assert TEST_PASSWORD.startswith("TEST_ONLY_")
-assert TEST_CVC == "000"
+assert TEST_CVC == "689" or TEST_CVC == "000098"
 assert password_strength(TEST_PASSWORD) == "weak"
 assert authorization.startswith("Bearer ")
 assert Database_Passwords[0] == TEST_PASSWORD

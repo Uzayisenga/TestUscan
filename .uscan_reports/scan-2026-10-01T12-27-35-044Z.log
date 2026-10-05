@@ -1,0 +1,39 @@
+[2026-10-01T12:27:35.052Z] Uscan Pre-Hook Scan — STARTED
+[2026-10-01T12:27:35.052Z] Files queued: 33
+
+[2026-10-01T12:27:35.052Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\latest-report.html — Binary or unsupported type
+[2026-10-01T12:27:35.052Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-19-05-415Z.html — Binary or unsupported type
+[2026-10-01T12:27:35.052Z] CLEAN C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-19-05-415Z.json
+[2026-10-01T12:27:35.052Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-19-05-415Z.log — Binary or unsupported type
+[2026-10-01T12:27:35.052Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-24-10-644Z.html — Binary or unsupported type
+[2026-10-01T12:27:35.052Z] CLEAN C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-24-10-644Z.json
+[2026-10-01T12:27:35.052Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-24-10-644Z.log — Binary or unsupported type
+[2026-10-01T12:27:35.052Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-25-18-136Z.html — Binary or unsupported type
+[2026-10-01T12:27:35.052Z] CLEAN C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-25-18-136Z.json
+[2026-10-01T12:27:35.052Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-25-18-136Z.log — Binary or unsupported type
+[2026-10-01T12:27:35.052Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-55-49-426Z.html — Binary or unsupported type
+[2026-10-01T12:27:35.052Z] CLEAN C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-55-49-426Z.json
+[2026-10-01T12:27:35.052Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-55-49-426Z.log — Binary or unsupported type
+[2026-10-01T12:27:35.052Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T14-43-01-681Z.html — Binary or unsupported type
+[2026-10-01T12:27:35.052Z] CLEAN C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T14-43-01-681Z.json
+[2026-10-01T12:27:35.052Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T14-43-01-681Z.log — Binary or unsupported type
+[2026-10-01T12:27:35.052Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T14-45-49-919Z.html — Binary or unsupported type
+[2026-10-01T12:27:35.052Z] CLEAN C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T14-45-49-919Z.json
+[2026-10-01T12:27:35.052Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T14-45-49-919Z.log — Binary or unsupported type
+[2026-10-01T12:27:35.052Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T14-47-25-505Z.html — Binary or unsupported type
+[2026-10-01T12:27:35.052Z] CLEAN C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T14-47-25-505Z.json
+[2026-10-01T12:27:35.052Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T14-47-25-505Z.log — Binary or unsupported type
+[2026-10-01T12:27:35.052Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T14-55-45-523Z.html — Binary or unsupported type
+[2026-10-01T12:27:35.052Z] CLEAN C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T14-55-45-523Z.json
+[2026-10-01T12:27:35.052Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T14-55-45-523Z.log — Binary or unsupported type
+[2026-10-01T12:27:35.052Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T15-11-03-241Z.html — Binary or unsupported type
+[2026-10-01T12:27:35.052Z] CLEAN C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T15-11-03-241Z.json
+[2026-10-01T12:27:35.052Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T15-11-03-241Z.log — Binary or unsupported type
+[2026-10-01T12:27:35.052Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T15-35-36-749Z.html — Binary or unsupported type
+[2026-10-01T12:27:35.052Z] CLEAN C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T15-35-36-749Z.json
+[2026-10-01T12:27:35.052Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T15-35-36-749Z.log — Binary or unsupported type
+[2026-10-01T12:27:35.052Z] CLEAN C:\Users\User\Downloads\TesTUscan\CreatingDepartureSteps.java
+[2026-10-01T12:27:35.052Z] CLEAN C:\Users\User\Downloads\TesTUscan\Test.py
+
+[2026-10-01T12:27:35.052Z] SCAN COMPLETE — 0 issue(s) in 0 file(s)
+[2026-10-01T12:27:35.052Z] Verdict: SAFE TO DEPLOY
