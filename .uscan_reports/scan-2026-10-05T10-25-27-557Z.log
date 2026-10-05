@@ -1,0 +1,81 @@
+[2026-10-05T10:25:27.567Z] Uscan Pre-Hook Scan — STARTED
+[2026-10-05T10:25:27.567Z] Files queued: 44
+
+[2026-10-05T10:25:27.567Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\latest-report.html — Binary or unsupported type
+[2026-10-05T10:25:27.567Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-19-05-415Z.html — Binary or unsupported type
+[2026-10-05T10:25:27.567Z] CLEAN C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-19-05-415Z.json
+[2026-10-05T10:25:27.567Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-19-05-415Z.log — Binary or unsupported type
+[2026-10-05T10:25:27.567Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-24-10-644Z.html — Binary or unsupported type
+[2026-10-05T10:25:27.567Z] CLEAN C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-24-10-644Z.json
+[2026-10-05T10:25:27.567Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-24-10-644Z.log — Binary or unsupported type
+[2026-10-05T10:25:27.567Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-25-18-136Z.html — Binary or unsupported type
+[2026-10-05T10:25:27.567Z] CLEAN C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-25-18-136Z.json
+[2026-10-05T10:25:27.567Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-25-18-136Z.log — Binary or unsupported type
+[2026-10-05T10:25:27.567Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-55-49-426Z.html — Binary or unsupported type
+[2026-10-05T10:25:27.567Z] CLEAN C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-55-49-426Z.json
+[2026-10-05T10:25:27.567Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T13-55-49-426Z.log — Binary or unsupported type
+[2026-10-05T10:25:27.567Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T14-43-01-681Z.html — Binary or unsupported type
+[2026-10-05T10:25:27.567Z] CLEAN C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T14-43-01-681Z.json
+[2026-10-05T10:25:27.567Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T14-43-01-681Z.log — Binary or unsupported type
+[2026-10-05T10:25:27.567Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T14-45-49-919Z.html — Binary or unsupported type
+[2026-10-05T10:25:27.567Z] CLEAN C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T14-45-49-919Z.json
+[2026-10-05T10:25:27.567Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T14-45-49-919Z.log — Binary or unsupported type
+[2026-10-05T10:25:27.567Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T14-47-25-505Z.html — Binary or unsupported type
+[2026-10-05T10:25:27.567Z] CLEAN C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T14-47-25-505Z.json
+[2026-10-05T10:25:27.567Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T14-47-25-505Z.log — Binary or unsupported type
+[2026-10-05T10:25:27.567Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T14-55-45-523Z.html — Binary or unsupported type
+[2026-10-05T10:25:27.567Z] CLEAN C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T14-55-45-523Z.json
+[2026-10-05T10:25:27.567Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T14-55-45-523Z.log — Binary or unsupported type
+[2026-10-05T10:25:27.567Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T15-11-03-241Z.html — Binary or unsupported type
+[2026-10-05T10:25:27.567Z] CLEAN C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T15-11-03-241Z.json
+[2026-10-05T10:25:27.567Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T15-11-03-241Z.log — Binary or unsupported type
+[2026-10-05T10:25:27.567Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T15-35-36-749Z.html — Binary or unsupported type
+[2026-10-05T10:25:27.567Z] CLEAN C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T15-35-36-749Z.json
+[2026-10-05T10:25:27.567Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-09-30T15-35-36-749Z.log — Binary or unsupported type
+[2026-10-05T10:25:27.567Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-10-01T12-27-35-044Z.html — Binary or unsupported type
+[2026-10-05T10:25:27.567Z] CLEAN C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-10-01T12-27-35-044Z.json
+[2026-10-05T10:25:27.567Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-10-01T12-27-35-044Z.log — Binary or unsupported type
+[2026-10-05T10:25:27.567Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-10-01T12-52-38-602Z.html — Binary or unsupported type
+[2026-10-05T10:25:27.567Z] CLEAN C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-10-01T12-52-38-602Z.json
+[2026-10-05T10:25:27.567Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-10-01T12-52-38-602Z.log — Binary or unsupported type
+[2026-10-05T10:25:27.567Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-10-01T14-21-42-916Z.html — Binary or unsupported type
+[2026-10-05T10:25:27.567Z] CLEAN C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-10-01T14-21-42-916Z.json
+[2026-10-05T10:25:27.567Z] SKIP  C:\Users\User\Downloads\TesTUscan\.uscan_reports\scan-2026-10-01T14-21-42-916Z.log — Binary or unsupported type
+[2026-10-05T10:25:27.567Z] CLEAN C:\Users\User\Downloads\TesTUscan\CreatingDepartureSteps.java
+[2026-10-05T10:25:27.567Z] FLAG  C:\Users\User\Downloads\TesTUscan\test-sensitive-data.js — 12 issue(s)
+[2026-10-05T10:25:27.567Z]   [CRITICAL] Private Key (PEM) (Keys & Certs) — 1 match(es) — line 13
+[2026-10-05T10:25:27.567Z]     match: ----•••••••••••••••••••••••••••
+[2026-10-05T10:25:27.567Z]   [CRITICAL] RSA Private Key (Keys & Certs) — 1 match(es) — line 13
+[2026-10-05T10:25:27.567Z]     match: ----•••••••••••••••••••••••••••
+[2026-10-05T10:25:27.567Z]   [CRITICAL] SSN (PII) — 1 match(es) — line 21
+[2026-10-05T10:25:27.567Z]     match: 000-•••••••
+[2026-10-05T10:25:27.567Z]   [CRITICAL] Credit Card (Visa) (PII) — 1 match(es) — line 22
+[2026-10-05T10:25:27.567Z]     match: 4111•••••••••••••••
+[2026-10-05T10:25:27.567Z]   [CRITICAL] AWS Secret Access Key (Cloud) — 1 match(es) — line 7
+[2026-10-05T10:25:27.567Z]     match: wJal••••••••••••••••••••••••••••••••••••
+[2026-10-05T10:25:27.567Z]   [CRITICAL] GitHub Token (API Keys) — 1 match(es) — line 10
+[2026-10-05T10:25:27.567Z]     match: ghp_••••••••••••••••••••••••••••••••••••••••••••••••
+[2026-10-05T10:25:27.567Z]   [CRITICAL] Stripe Secret Key (API Keys) — 1 match(es) — line 9
+[2026-10-05T10:25:27.567Z]     match: sk_t••••••••••••••••••••••••••••••••••
+[2026-10-05T10:25:27.567Z]   [CRITICAL] Database Connection URL (Database) — 2 match(es) — line 34
+[2026-10-05T10:25:27.567Z]     match: mong•••••••••••••••••••••••••••••••••••••••••••••••••••••••
+[2026-10-05T10:25:27.567Z]     match: post••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+[2026-10-05T10:25:27.567Z]   [HIGH] JWT Token (Auth) — 1 match(es) — line 17
+[2026-10-05T10:25:27.567Z]     match: eyJh•••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+[2026-10-05T10:25:27.567Z]   [HIGH] Bearer Token (Auth) — 1 match(es) — line 17
+[2026-10-05T10:25:27.567Z]     match: Bear••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••••
+[2026-10-05T10:25:27.567Z]   [MEDIUM] Email Address (PII) — 1 match(es) — line 25
+[2026-10-05T10:25:27.567Z]     match: john••••••••••••••••
+[2026-10-05T10:25:27.567Z]   [LOW] Phone Number (PII) — 1 match(es) — line 26
+[2026-10-05T10:25:27.567Z]     match: 1-55••••••••••
+[2026-10-05T10:25:27.567Z] CLEAN C:\Users\User\Downloads\TesTUscan\Test.py
+[2026-10-05T10:25:27.567Z] FLAG  C:\Users\User\Downloads\TesTUscan\TestData.js — 2 issue(s)
+[2026-10-05T10:25:27.567Z]   [CRITICAL] Database Connection URL (Database) — 2 match(es) — line 22
+[2026-10-05T10:25:27.567Z]     match: mong••••••••••••••••••••••
+[2026-10-05T10:25:27.567Z]     match: redi••••••••••••••••••
+[2026-10-05T10:25:27.567Z]   [MEDIUM] Email Address (PII) — 2 match(es) — line 6
+[2026-10-05T10:25:27.567Z]     match: test•••••••••••••••••
+[2026-10-05T10:25:27.567Z]     match: test•••••••••••••••••
+
+[2026-10-05T10:25:27.567Z] SCAN COMPLETE — 14 issue(s) in 2 file(s)
+[2026-10-05T10:25:27.567Z] Verdict: BLOCK COMMIT

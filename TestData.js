@@ -3,12 +3,12 @@
 const mockUsers = [
   {
     id: 1,
-    email: "testuser1@example.com",
+    email: "test•••••••••••••••••",
     password: "password123"
   },
   {
     id: 2,
-    email: "testuser2@example.com",
+    email: "test•••••••••••••••••",
     password: "password456"
   }
 ];
@@ -19,8 +19,8 @@ const mockApiKeys = {
 };
 // Mock sensitive configuration
 const mockSensitiveConfig = {
-  databaseUrl: "mongodb://localhost/testdb",
-  redisUrl: "redis://localhost:6379"
+  databaseUrl: "mong••••••••••••••••••••••",
+  redisUrl: "redi••••••••••••••••••"
 };    
 
 
